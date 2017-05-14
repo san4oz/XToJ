@@ -1,0 +1,7 @@
+c:\Users\Alexey\SkyDrive\документы\visual studio 2017\Projects\XtoJ\XtoJ.Core\bin\Debug\XtoJ.Core.exe.config
+c:\Users\Alexey\SkyDrive\документы\visual studio 2017\Projects\XtoJ\XtoJ.Core\bin\Debug\XtoJ.Core.exe
+c:\Users\Alexey\SkyDrive\документы\visual studio 2017\Projects\XtoJ\XtoJ.Core\bin\Debug\XtoJ.Core.pdb
+c:\Users\Alexey\SkyDrive\документы\visual studio 2017\Projects\XtoJ\XtoJ.Core\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Alexey\SkyDrive\документы\visual studio 2017\Projects\XtoJ\XtoJ.Core\bin\Debug\Newtonsoft.Json.xml
+c:\Users\Alexey\SkyDrive\документы\visual studio 2017\Projects\XtoJ\XtoJ.Core\obj\Debug\XtoJ.Core.exe
+c:\Users\Alexey\SkyDrive\документы\visual studio 2017\Projects\XtoJ\XtoJ.Core\obj\Debug\XtoJ.Core.pdb
